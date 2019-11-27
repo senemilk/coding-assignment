@@ -215,3 +215,11 @@ Please check this [release](https://github.com/Foodvisor/coding-assignment/relea
 
 
 Best of luck!
+
+
+
+# Coding assignment - submission
+
+To check the results, run:
+
+python3 main.py
